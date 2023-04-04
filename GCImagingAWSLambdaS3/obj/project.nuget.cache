@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ytBmX0amSgSMTdjQVciQ425nWU3FCRlUqe8ZugaH9gsXYQ+FCHjxCcubzo+g9zSrmtknCsFVaz22WBjPobKsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aarthy\\Documents\\Semester3\\Cloud\\301160297(Jane)_Lab4\\GCImagingAWSLambdaS3\\GCImagingAWSLambdaS3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aarthy\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\amazon.lambda.s3events\\3.0.0\\amazon.lambda.s3events.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\awssdk.core\\3.7.12.17\\awssdk.core.3.7.12.17.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\awssdk.s3\\3.7.9.35\\awssdk.s3.3.7.9.35.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\grapecity.documents.dx.windows\\5.2.0.804\\grapecity.documents.dx.windows.5.2.0.804.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\grapecity.documents.imaging\\5.2.0.804\\grapecity.documents.imaging.5.2.0.804.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\grapecity.documents.imaging.windows\\5.2.0.804\\grapecity.documents.imaging.windows.5.2.0.804.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.11\\microsoft.netcore.app.crossgen2.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

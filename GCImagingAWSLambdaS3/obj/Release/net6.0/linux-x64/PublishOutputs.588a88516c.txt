@@ -1,0 +1,14 @@
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\GCImagingAWSLambdaS3.deps.json
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\GCImagingAWSLambdaS3.runtimeconfig.json
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\GCImagingAWSLambdaS3.pdb
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\ja\GrapeCity.Documents.Imaging.resources.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\ja\GrapeCity.Documents.Imaging.Windows.resources.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\GrapeCity.Documents.DX.Windows.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\GrapeCity.Documents.Imaging.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\GrapeCity.Documents.Imaging.Windows.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4xx\GCImagingAWSLambdaS3\bin\Release\net6.0\publish\GCImagingAWSLambdaS3.dll

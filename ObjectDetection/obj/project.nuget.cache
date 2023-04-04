@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LM2nht8HRaUMhfLwP1naaYvEuYLuUd6c41/GacUYXvGnIDurXpQ78GDKHTH8QtZJv96PxYulVvA174CRb2DfUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aarthy\\Documents\\Semester3\\Cloud\\301160297(Jane)_Lab4\\ObjectDetection\\ObjectDetection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aarthy\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\amazon.lambda.s3events\\3.0.0\\amazon.lambda.s3events.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\awssdk.core\\3.7.101.1\\awssdk.core.3.7.101.1.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.100.29\\awssdk.dynamodbv2.3.7.100.29.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\awssdk.rekognition\\3.7.9.4\\awssdk.rekognition.3.7.9.4.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\awssdk.s3\\3.7.9.35\\awssdk.s3.3.7.9.35.nupkg.sha512",
+    "C:\\Users\\Aarthy\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.11\\microsoft.netcore.app.crossgen2.win-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

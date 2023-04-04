@@ -1,0 +1,11 @@
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\ObjectDetection.deps.json
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\ObjectDetection.runtimeconfig.json
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\ObjectDetection.pdb
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\AWSSDK.Rekognition.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\Aarthy\Documents\Semester3\Cloud\301160297(Jane)_Lab4\ObjectDetection\bin\Release\net6.0\publish\ObjectDetection.dll
